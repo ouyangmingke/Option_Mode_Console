@@ -1,0 +1,7 @@
+{
+  "Tips": "设置配置文件,项目config.json 文件右键——属性——将“复制到输出目录”项的值改为“始终复制”",
+  "Position": {
+    "Title": "Editor",
+    "Name": "Joe Smith"
+  }
+}
